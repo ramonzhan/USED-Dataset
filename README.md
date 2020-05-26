@@ -1,4 +1,4 @@
-# JPG-dataset
+#1. JPG-dataset
 the dataset and pretrained model of "Hiring Now A Skill-Aware Multi-Attention Model for Job Posting Generation" ACL2020  
 
 ## 数据字段介绍(data field introduction)：  
