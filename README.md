@@ -1,7 +1,7 @@
 # 1. JPG-dataset [[url](https://drive.google.com/open?id=15bQqsOTVZrVbi-ivxfiYAALHohYQnt6P)]
 the dataset and pretrained model of "Hiring Now A Skill-Aware Multi-Attention Model for Job Posting Generation" ACL2020  
 
-## 数据字段介绍(data field introduction)：  
+## 数据介绍(data introduction)：  
 + src -- 工作描述内容（the text of job description）  
 + srcid -- 工作描述内容词对应的索引 (the word id of  job description )  
 + tgt -- 技能需求段落内容 (the text of skill requirement)  
