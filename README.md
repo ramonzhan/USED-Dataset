@@ -1,6 +1,5 @@
-# 1. JPG-dataset
+# 1. JPG-dataset [[url](https://drive.google.com/open?id=15bQqsOTVZrVbi-ivxfiYAALHohYQnt6P)]
 the dataset and pretrained model of "Hiring Now A Skill-Aware Multi-Attention Model for Job Posting Generation" ACL2020  
-[url](https://drive.google.com/open?id=15bQqsOTVZrVbi-ivxfiYAALHohYQnt6P)
 
 ## 数据字段介绍(data field introduction)：  
 src -- 工作描述内容（the text of job description）  
