@@ -11,5 +11,4 @@ skillnetid -- 技能知识图谱推荐的技能内容词对应的索引 (the rec
 skilltgt -- 技能预测预测的技能内容(the extracted skill text of skill requirement)  
 skilltgtid -- 技能预测预测的技能内容词对应的索引 (the extracted skill word id of skill requirement)  
 
-**数据仅限于学术目的，不可用于商业活动。**
-The data is only for academic purposes. 
+**数据仅限于学术目的，不可用于商业活动。The data is only for academic purposes.**
